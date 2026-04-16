@@ -1,0 +1,14 @@
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\bin\Debug\net10.0\13_Hasan_XRPL1.exe
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\bin\Debug\net10.0\13_Hasan_XRPL1.deps.json
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\bin\Debug\net10.0\13_Hasan_XRPL1.runtimeconfig.json
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\bin\Debug\net10.0\13_Hasan_XRPL1.dll
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\bin\Debug\net10.0\13_Hasan_XRPL1.pdb
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.AssemblyInfoInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.AssemblyInfo.cs
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.dll
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\refint\13_Hasan_XRPL1.dll
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.pdb
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\13_Hasan_XRPL1.genruntimeconfig.cache
+C:\Users\Pongo\OneDrive\Desktop\13_HasanNurAdhiWibowo_XRPL1\13_Hasan_XRPL1\obj\Debug\net10.0\ref\13_Hasan_XRPL1.dll
